@@ -1,0 +1,353 @@
+music_station = "hotb_main_music"
+
+music = {
+	song = "maintheme"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}
+	}
+}
+
+# SPECIAL
+
+music = {
+	song = "7thcavmarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = WCC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = WCC			
+		}
+	}
+}
+
+music = {
+	song = "everymanaking"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = TEX			
+		}
+	}
+}
+
+music = {
+	song = "maidensprayer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = TEX
+		}
+	}
+}
+
+music = {
+	song = "bonnieblueflag"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = COR
+		}
+	}
+}
+
+music = {
+	song = "bunkerhill"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "columbiagemoftheocean"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+
+music = {
+	song = "hailcolumbia"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "heebiejeebies"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BBR
+		}
+	}
+}
+
+music = {
+	song = "hellonthewabashfifeanddrum"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = WCC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = WCC
+		}
+	}
+}
+
+music = {
+	song = "jubaaliresgospelnoah"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = BBR
+		}
+	}
+}
+
+music = {
+	song = "kingcottonmarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = COR
+		}
+	}
+}
+
+music = {
+	song = "mechanizedmarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = WCC
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = WCC
+		}
+	}
+}
+
+music = {
+	song = "mickeymouseclubmarch"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CAL
+		}
+	}
+}
+
+music = {
+	song = "iloveyoucali"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = CAL
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = CAL
+		}
+	}
+}
+
+music = {
+	song = "takemehome"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = COR
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = COR
+		}
+	}
+}
+
+music = {
+	song = "16tons"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = TEX
+			}
+		}
+		modifier = {
+			factor = 2 
+			tag = TEX
+		}
+	}
+}
+
+music = {
+	song = "thegreenmountaineer"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NEE
+		}
+	}
+}
+
+music = {
+	song = "fightforyournation"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = BBR
+			}
+		}
+		modifier = {
+			factor = 2 
+			tag = BBR
+		}
+	}
+}
+
+music = {
+	song = "hailtothechief"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = USA
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = USA
+		}
+	}
+}
+
+music = {
+	song = "yankeedoodle"
+
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				tag = NEE
+			}
+		}
+		modifier = {
+			factor = 2
+			tag = NEE
+		}
+	}
+}
